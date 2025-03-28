@@ -33,7 +33,7 @@ export function WelcomeModal({ onClose, onShowTutorial }: WelcomeModalProps) {
           </div>
 
           <p className="text-center mb-6">
-            Terima kasih telah menggunakan Inconigto VPN Config Generator. Aplikasi ini membantu Anda menemukan dan
+            Terima kasih telah menggunakan DARK ✘ SYSTEM㋡ VPN Config Generator. Aplikasi ini membantu Anda menemukan dan
             mengkonfigurasi proxy untuk kebutuhan VPN Anda.
           </p>
 
