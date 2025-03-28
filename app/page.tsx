@@ -530,8 +530,8 @@ export default function Home() {
                 </div>
                 <div>
                   <h1 className="text-center text-lg sm:text-xl md:text-2xl font-bold text-white dark:text-white drop-shadow-md">
-                    <span className="animate-pulse-glow">INCONIGTO</span>
-                    <span className="text-yellow-200 dark:text-white ml-1 animate-pulse-soft">MODE</span>
+                    <span className="animate-pulse-glow">DARK✘</span>
+                    <span className="text-yellow-200 dark:text-white ml-1 animate-pulse-soft">SYSTEM㋡</span>
                   </h1>
                   <div className="text-xs text-white/70 dark:text-white/70 hidden sm:block">
                     Secure VPN Configuration Generator
