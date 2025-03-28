@@ -19,7 +19,7 @@ export default function Home() {
   const [hostName, setHostName] = useState("")
   const [nameWEB, setNameWEB] = useState("DARK ✘ SYSTEM㋡")
   const [telegram, setTelegram] = useState("DARK ✘ SYSTEM㋡")
-  const [pathinfo, setPathinfo] = useState("t.me//Dark_System2x") // Changed default path
+  const [pathinfo, setPathinfo] = useState("t.me/Dark_System2x") // Changed default path
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [isMobileView, setIsMobileView] = useState(false)
@@ -88,9 +88,9 @@ export default function Home() {
 
         // Update state with loaded settings
         setHostName(settings.defaultHostname || "")
-        setPathinfo(settings.defaultPathInfo || "t.me/Inconigto_Mode")
-        setNameWEB(settings.defaultNameWEB || "Inconigto_Mode")
-        setTelegram(settings.defaultTelegram || "Inconigto_Mode")
+        setPathinfo(settings.defaultPathInfo || "t.me/Dark_System2x")
+        setNameWEB(settings.defaultNameWEB || "DARK ✘ SYSTEM㋡")
+        setTelegram(settings.defaultTelegram || "DARK ✘ SYSTEM㋡")
         setAvailableHostNames(settings.hostnames || [])
         setAvailableBugServers(settings.bugServers || [])
 
