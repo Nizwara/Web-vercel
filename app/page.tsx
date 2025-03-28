@@ -17,9 +17,9 @@ export default function Home() {
   const [searchQuery, setSearchQuery] = useState("")
   const [activeTabIndex, setActiveTabIndex] = useState(0)
   const [hostName, setHostName] = useState("")
-  const [nameWEB, setNameWEB] = useState("Inconigto_Mode")
-  const [telegram, setTelegram] = useState("Inconigto_Mode")
-  const [pathinfo, setPathinfo] = useState("t.me/Inconigto_Mode") // Changed default path
+  const [nameWEB, setNameWEB] = useState("DARK ✘ SYSTEM㋡")
+  const [telegram, setTelegram] = useState("DARK ✘ SYSTEM㋡")
+  const [pathinfo, setPathinfo] = useState("t.me//Dark_System2x") // Changed default path
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [isMobileView, setIsMobileView] = useState(false)
