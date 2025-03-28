@@ -11,7 +11,7 @@ export function WelcomeModal({ onClose, onShowTutorial }: WelcomeModalProps) {
     <div className="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4 animate-fadeIn">
       <div className="bg-tech-card max-w-md w-full rounded-xl shadow-2xl overflow-hidden text-tech-text">
         <div className="p-4 bg-gradient-to-r from-tech-accent to-tech-highlight text-white">
-          <h2 className="text-xl font-bold">Selamat Datang di Inconigto VPN</h2>
+          <h2 className="text-xl font-bold">Selamat Datang di DARK ✘ SYSTEM㋡ VPN</h2>
         </div>
 
         <div className="p-6">
