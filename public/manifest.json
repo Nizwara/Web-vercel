@@ -1,0 +1,23 @@
+{
+  "name": "DARK ✘ SYSTEM㋡ VPN",
+  "short_name": "DARK ✘ SYSTEM㋡",
+  "description": "VPN Configuration Generator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/Nizwara/DARK-SYSTEM/main/DARK ✘ SYSTEM㋡.png",
+      "sizes": "80x80",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Nizwara/DARK-SYSTEM/main/DARK ✘ SYSTEM㋡.png",
+      "sizes": "80x80",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+
